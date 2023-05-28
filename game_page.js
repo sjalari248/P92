@@ -75,4 +75,3 @@ else
 
 document.getElementById("output").innerHTML = "";
 }
-
